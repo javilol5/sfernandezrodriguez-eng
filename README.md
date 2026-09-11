@@ -27,3 +27,14 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <br>
+
+## GitHub Stats
+
+![Sergio's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sfernandezrodriguez-eng&show_icons=true&theme=radical)
+![Sergio's Stats](https://github-readme-streak-stats.herokuapp.com/?user=sfernandezrodriguez-eng&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sfernandezrodriguez-eng&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
