@@ -41,8 +41,12 @@
 
 ## GitHub Stats
 
-![Sergio's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sfernandezrodriguez-eng&show_icons=true&theme=radical)
-![Sergio's Stats](https://streak-stats.demolab.com/?user=sfernandezrodriguez-eng&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sfernandezrodriguez-eng&show_icons=true&theme=radical" width="56%">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sfernandezrodriguez-eng&layout=compact&theme=radical" width="43%">
+ <br>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=sfernandezrodriguez-eng&theme=radical" width="50%">
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sfernandezrodriguez-eng&layout=compact&theme=radical" alt="Top Languages" />
